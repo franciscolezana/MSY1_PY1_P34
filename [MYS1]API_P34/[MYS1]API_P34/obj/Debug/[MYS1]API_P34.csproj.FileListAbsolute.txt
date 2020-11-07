@@ -1,0 +1,11 @@
+C:\Users\betor\Desktop\MSY1_PY1_P34\[MYS1]API_P34\[MYS1]API_P34\bin\Debug\[MYS1]API_P34.exe.config
+C:\Users\betor\Desktop\MSY1_PY1_P34\[MYS1]API_P34\[MYS1]API_P34\bin\Debug\[MYS1]API_P34.exe
+C:\Users\betor\Desktop\MSY1_PY1_P34\[MYS1]API_P34\[MYS1]API_P34\bin\Debug\[MYS1]API_P34.pdb
+C:\Users\betor\Desktop\MSY1_PY1_P34\[MYS1]API_P34\[MYS1]API_P34\obj\Debug\[MYS1]API_P34.csprojAssemblyReference.cache
+C:\Users\betor\Desktop\MSY1_PY1_P34\[MYS1]API_P34\[MYS1]API_P34\obj\Debug\_MYS1_API_P34.Form1.resources
+C:\Users\betor\Desktop\MSY1_PY1_P34\[MYS1]API_P34\[MYS1]API_P34\obj\Debug\_MYS1_API_P34.Properties.Resources.resources
+C:\Users\betor\Desktop\MSY1_PY1_P34\[MYS1]API_P34\[MYS1]API_P34\obj\Debug\[MYS1]API_P34.csproj.GenerateResource.cache
+C:\Users\betor\Desktop\MSY1_PY1_P34\[MYS1]API_P34\[MYS1]API_P34\obj\Debug\[MYS1]API_P34.csproj.CoreCompileInputs.cache
+C:\Users\betor\Desktop\MSY1_PY1_P34\[MYS1]API_P34\[MYS1]API_P34\obj\Debug\[MYS1]API_P34.csproj.CopyComplete
+C:\Users\betor\Desktop\MSY1_PY1_P34\[MYS1]API_P34\[MYS1]API_P34\obj\Debug\[MYS1]API_P34.exe
+C:\Users\betor\Desktop\MSY1_PY1_P34\[MYS1]API_P34\[MYS1]API_P34\obj\Debug\[MYS1]API_P34.pdb
